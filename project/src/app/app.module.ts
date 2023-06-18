@@ -30,6 +30,6 @@ import { NavbarComponent } from './navbar/navbar.component';
     NavbarComponent
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
